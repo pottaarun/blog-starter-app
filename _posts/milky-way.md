@@ -1,5 +1,5 @@
 ---
-title: "Grains of Starlight: Counting the Stars in Our Milky Way"
+title: "Specs of Starlight: Counting the Stars in Our Milky Way"
 excerpt: "It's a question as old as stargazing itself: how many stars fill our home galaxy? While a precise count is impossible, scientists use incredible methods to estimate this cosmic number. From measuring the galaxy's mass to charting star types, the answer is truly astronomical."
 coverImage: "/assets/blog/milky-way/cover.jpg"
 date: "2025-08-08T20:42:33.322Z"
